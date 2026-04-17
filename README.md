@@ -1,5 +1,6 @@
 # 🌍 Yoruba → English Sequence-to-Sequence Translation Model
 
+
 This project demonstrates a **Sequence-to-Sequence (Seq2Seq) neural network** for translating Yoruba sentences into English using deep learning.
 
 It was built to understand how encoder-decoder architectures work using GRU-based recurrent neural networks.
